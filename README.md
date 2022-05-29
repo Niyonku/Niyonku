@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently learning some new Techy skills with Tech up girls.
 
 <!--
 **Niyonku/Niyonku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
